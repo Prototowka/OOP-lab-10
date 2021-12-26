@@ -1,0 +1,9 @@
+﻿  OOP lab 10.cpp
+C:\Users\UwU\source\repos\OOP lab 10\OOP lab 10\OOP lab 10.cpp(10,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\UwU\source\repos\OOP lab 10\OOP lab 10\OOP lab 10.cpp(15,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\UwU\source\repos\OOP lab 10\OOP lab 10\OOP lab 10.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\UwU\source\repos\OOP lab 10\OOP lab 10\OOP lab 10.cpp(59,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\UwU\source\repos\OOP lab 10\OOP lab 10\OOP lab 10.cpp(97,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\UwU\source\repos\OOP lab 10\OOP lab 10\OOP lab 10.cpp(117,31): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\UwU\source\repos\OOP lab 10\OOP lab 10\OOP lab 10.cpp(145,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  OOP lab 10.vcxproj -> C:\Users\UwU\source\repos\OOP lab 10\x64\Debug\OOP lab 10.exe
